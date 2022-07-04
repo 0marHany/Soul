@@ -9,6 +9,5 @@ module.exports = (schema) => {
         else {
             next();
         }
-        console.log();
     }
 };
